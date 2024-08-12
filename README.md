@@ -156,3 +156,6 @@ The server will start and listen on http://localhost:3000/.
 
 ### Contributing
 If you'd like to contribute to this project, please fork the repository, create a new branch, and submit a pull request with your changes. Make sure to write tests for any new features or changes.
+
+### License
+This project is licensed under the MIT License. See the *LICENSE* file for more details.
